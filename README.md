@@ -1,2 +1,2 @@
 # ewand
-drupal 7 distro for site ewand.dk
+drupal distro for site ewand.dk
